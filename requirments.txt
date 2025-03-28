@@ -1,0 +1,7 @@
+colorama==0.4.6
+jalali_core==1.0.0
+pillow==11.1.0
+pillow_heif==0.22.0
+pymediainfo==7.0.1
+pytz==2025.1
+tqdm==4.67.1
